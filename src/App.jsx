@@ -6,6 +6,7 @@ const events = [
   { id: 3, name: "Uno vomita al ristorante", cost: 20 },
   { id: 4, name: "Ci perdiamo nel deserto", cost: 15 },
   { id: 5, name: "Facciamo amicizia con un gruppo di motociclisti", cost: 10 },
+  { id: 6, name: "Uno di noi rimane senza benzina", cost: 10 },
 ];
 
 export default function App() {
